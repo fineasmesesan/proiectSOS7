@@ -1,0 +1,763 @@
+nume director: /home/mesesan/SO
+identificatorul utilizatorului: 1000
+drepturi de acces user: 700
+drepturi de acces grup: 7
+drepturi de acces altii: 5
+nume director: proiectSO-S7
+identificatorul utilizatorului: 1000
+drepturi de acces user: 700
+drepturi de acces grup: 7
+drepturi de acces altii: 5
+nume fisier: program
+identificatorul utilizatorului: 1000
+timpul ultimei modificari: Sat Nov 11 18:46:43 2023
+
+contorul de legaturi: 1
+drepturi de acces user: 700
+drepturi de acces grup: 7
+drepturi de acces altii: 5
+nume fisier: imagine.bmp
+inaltime: 65536
+lungime: 83886080
+dimensiune: 112
+identificatorul utilizatorului: 125829120
+timpul ultimei modificari: Thu Jan  1 02:01:52 1970
+
+contorul de legaturi: 0l
+drepturi de acces user: 0
+drepturi de acces grup: 0
+drepturi de acces altii: 0
+nume fisier: script.c
+identificatorul utilizatorului: 1000
+timpul ultimei modificari: Sat Nov 11 17:47:50 2023
+
+contorul de legaturi: 1
+drepturi de acces user: 600
+drepturi de acces grup: 6
+drepturi de acces altii: 4
+nume fisier: statistica.txt
+identificatorul utilizatorului: 1000
+timpul ultimei modificari: Sat Nov 11 18:46:50 2023
+
+contorul de legaturi: 1
+drepturi de acces user: 600
+drepturi de acces grup: 0
+drepturi de acces altii: 0
+nume director: lab5
+identificatorul utilizatorului: 1000
+drepturi de acces user: 700
+drepturi de acces grup: 7
+drepturi de acces altii: 5
+nume director: prob3
+identificatorul utilizatorului: 1000
+drepturi de acces user: 700
+drepturi de acces grup: 7
+drepturi de acces altii: 5
+nume fisier: script.sh
+identificatorul utilizatorului: 1000
+timpul ultimei modificari: Sun Nov  5 21:47:59 2023
+
+contorul de legaturi: 1
+drepturi de acces user: 600
+drepturi de acces grup: 6
+drepturi de acces altii: 4
+nume director: prob2
+identificatorul utilizatorului: 1000
+drepturi de acces user: 700
+drepturi de acces grup: 7
+drepturi de acces altii: 5
+nume fisier: script.sh
+identificatorul utilizatorului: 1000
+timpul ultimei modificari: Sun Nov  5 21:43:15 2023
+
+contorul de legaturi: 1
+drepturi de acces user: 600
+drepturi de acces grup: 6
+drepturi de acces altii: 4
+nume director: prob1
+identificatorul utilizatorului: 1000
+drepturi de acces user: 700
+drepturi de acces grup: 7
+drepturi de acces altii: 5
+nume fisier: output.txt
+identificatorul utilizatorului: 1000
+timpul ultimei modificari: Sun Nov  5 21:40:03 2023
+
+contorul de legaturi: 1
+drepturi de acces user: 600
+drepturi de acces grup: 6
+drepturi de acces altii: 4
+nume fisier: script.sh
+identificatorul utilizatorului: 1000
+timpul ultimei modificari: Sun Nov  5 21:39:42 2023
+
+contorul de legaturi: 1
+drepturi de acces user: 600
+drepturi de acces grup: 6
+drepturi de acces altii: 4
+nume director: prob4
+identificatorul utilizatorului: 1000
+drepturi de acces user: 700
+drepturi de acces grup: 7
+drepturi de acces altii: 5
+nume fisier: script.sh
+identificatorul utilizatorului: 1000
+timpul ultimei modificari: Sun Nov  5 21:51:07 2023
+
+contorul de legaturi: 1
+drepturi de acces user: 600
+drepturi de acces grup: 6
+drepturi de acces altii: 4
+nume director: prob5
+identificatorul utilizatorului: 1000
+drepturi de acces user: 700
+drepturi de acces grup: 7
+drepturi de acces altii: 5
+nume fisier: script.c~
+identificatorul utilizatorului: 1000
+timpul ultimei modificari: Sun Nov  5 21:52:30 2023
+
+contorul de legaturi: 1
+drepturi de acces user: 600
+drepturi de acces grup: 6
+drepturi de acces altii: 4
+nume fisier: script.c
+identificatorul utilizatorului: 1000
+timpul ultimei modificari: Sun Nov  5 21:54:00 2023
+
+contorul de legaturi: 1
+drepturi de acces user: 600
+drepturi de acces grup: 6
+drepturi de acces altii: 4
+nume director: lab6
+identificatorul utilizatorului: 1000
+drepturi de acces user: 700
+drepturi de acces grup: 7
+drepturi de acces altii: 5
+nume director: prob2
+identificatorul utilizatorului: 1000
+drepturi de acces user: 700
+drepturi de acces grup: 7
+drepturi de acces altii: 5
+nume fisier: program
+identificatorul utilizatorului: 1000
+timpul ultimei modificari: Sun Nov  5 21:11:10 2023
+
+contorul de legaturi: 1
+drepturi de acces user: 700
+drepturi de acces grup: 7
+drepturi de acces altii: 5
+nume fisier: script.c
+identificatorul utilizatorului: 1000
+timpul ultimei modificari: Sun Nov  5 21:02:32 2023
+
+contorul de legaturi: 1
+drepturi de acces user: 600
+drepturi de acces grup: 6
+drepturi de acces altii: 4
+nume director: lab3
+identificatorul utilizatorului: 1000
+drepturi de acces user: 700
+drepturi de acces grup: 7
+drepturi de acces altii: 5
+nume director: pb32
+identificatorul utilizatorului: 1000
+drepturi de acces user: 700
+drepturi de acces grup: 7
+drepturi de acces altii: 5
+nume fisier: script.sh
+identificatorul utilizatorului: 1000
+timpul ultimei modificari: Mon Oct  9 22:45:52 2023
+
+contorul de legaturi: 1
+drepturi de acces user: 700
+drepturi de acces grup: 7
+drepturi de acces altii: 5
+nume fisier: script.sh~
+identificatorul utilizatorului: 1000
+timpul ultimei modificari: Mon Oct  9 22:41:23 2023
+
+contorul de legaturi: 1
+drepturi de acces user: 700
+drepturi de acces grup: 7
+drepturi de acces altii: 5
+nume director: pb1
+identificatorul utilizatorului: 1000
+drepturi de acces user: 700
+drepturi de acces grup: 7
+drepturi de acces altii: 5
+nume fisier: input.txt
+identificatorul utilizatorului: 1000
+timpul ultimei modificari: Mon Oct  9 11:59:08 2023
+
+contorul de legaturi: 1
+drepturi de acces user: 600
+drepturi de acces grup: 6
+drepturi de acces altii: 4
+nume fisier: output.txt
+identificatorul utilizatorului: 1000
+timpul ultimei modificari: Mon Oct  9 12:31:07 2023
+
+contorul de legaturi: 1
+drepturi de acces user: 600
+drepturi de acces grup: 6
+drepturi de acces altii: 4
+nume fisier: script.sh
+identificatorul utilizatorului: 1000
+timpul ultimei modificari: Mon Oct  9 12:29:52 2023
+
+contorul de legaturi: 1
+drepturi de acces user: 700
+drepturi de acces grup: 7
+drepturi de acces altii: 5
+nume director: pb2
+identificatorul utilizatorului: 1000
+drepturi de acces user: 700
+drepturi de acces grup: 7
+drepturi de acces altii: 5
+nume fisier: input.txt
+identificatorul utilizatorului: 1000
+timpul ultimei modificari: Mon Oct  9 12:39:42 2023
+
+contorul de legaturi: 1
+drepturi de acces user: 600
+drepturi de acces grup: 6
+drepturi de acces altii: 4
+nume fisier: output.txt
+identificatorul utilizatorului: 1000
+timpul ultimei modificari: Mon Oct  9 12:44:03 2023
+
+contorul de legaturi: 1
+drepturi de acces user: 600
+drepturi de acces grup: 6
+drepturi de acces altii: 4
+nume fisier: script.sh
+identificatorul utilizatorului: 1000
+timpul ultimei modificari: Mon Oct  9 12:43:31 2023
+
+contorul de legaturi: 1
+drepturi de acces user: 700
+drepturi de acces grup: 7
+drepturi de acces altii: 5
+nume director: pb31
+identificatorul utilizatorului: 1000
+drepturi de acces user: 700
+drepturi de acces grup: 7
+drepturi de acces altii: 5
+nume fisier: script.sh
+identificatorul utilizatorului: 1000
+timpul ultimei modificari: Mon Oct  9 22:43:02 2023
+
+contorul de legaturi: 1
+drepturi de acces user: 700
+drepturi de acces grup: 7
+drepturi de acces altii: 5
+nume fisier: script.sh~
+identificatorul utilizatorului: 1000
+timpul ultimei modificari: Mon Oct  9 11:57:27 2023
+
+contorul de legaturi: 1
+drepturi de acces user: 700
+drepturi de acces grup: 7
+drepturi de acces altii: 5
+nume director: lab4
+identificatorul utilizatorului: 1000
+drepturi de acces user: 700
+drepturi de acces grup: 7
+drepturi de acces altii: 5
+nume director: prob3
+identificatorul utilizatorului: 1000
+drepturi de acces user: 700
+drepturi de acces grup: 7
+drepturi de acces altii: 5
+nume fisier: program
+identificatorul utilizatorului: 1000
+timpul ultimei modificari: Mon Oct 16 12:27:32 2023
+
+contorul de legaturi: 1
+drepturi de acces user: 700
+drepturi de acces grup: 7
+drepturi de acces altii: 5
+nume fisier: script.c
+identificatorul utilizatorului: 1000
+timpul ultimei modificari: Mon Oct 16 12:26:27 2023
+
+contorul de legaturi: 1
+drepturi de acces user: 600
+drepturi de acces grup: 6
+drepturi de acces altii: 4
+nume fisier: script.sh~
+identificatorul utilizatorului: 1000
+timpul ultimei modificari: Mon Oct 16 11:06:22 2023
+
+contorul de legaturi: 1
+drepturi de acces user: 700
+drepturi de acces grup: 7
+drepturi de acces altii: 5
+nume fisier: output.txt
+identificatorul utilizatorului: 1000
+timpul ultimei modificari: Wed Oct 18 13:44:15 2023
+
+contorul de legaturi: 1
+drepturi de acces user: 600
+drepturi de acces grup: 6
+drepturi de acces altii: 4
+nume fisier: output1.txt
+identificatorul utilizatorului: 1000
+timpul ultimei modificari: Wed Oct 18 13:45:20 2023
+
+contorul de legaturi: 1
+drepturi de acces user: 600
+drepturi de acces grup: 6
+drepturi de acces altii: 4
+nume fisier: script.sh
+identificatorul utilizatorului: 1000
+timpul ultimei modificari: Mon Oct 16 11:15:39 2023
+
+contorul de legaturi: 1
+drepturi de acces user: 700
+drepturi de acces grup: 7
+drepturi de acces altii: 5
+nume fisier: integers.bin
+identificatorul utilizatorului: 1000
+timpul ultimei modificari: Thu Jun 13 19:28:14 2019
+
+contorul de legaturi: 1
+drepturi de acces user: 600
+drepturi de acces grup: 6
+drepturi de acces altii: 4
+nume director: prob2
+identificatorul utilizatorului: 1000
+drepturi de acces user: 700
+drepturi de acces grup: 7
+drepturi de acces altii: 5
+nume fisier: program
+identificatorul utilizatorului: 1000
+timpul ultimei modificari: Mon Oct 16 12:34:26 2023
+
+contorul de legaturi: 1
+drepturi de acces user: 700
+drepturi de acces grup: 7
+drepturi de acces altii: 5
+nume fisier: script
+identificatorul utilizatorului: 1000
+timpul ultimei modificari: Mon Oct 16 12:44:24 2023
+
+contorul de legaturi: 1
+drepturi de acces user: 700
+drepturi de acces grup: 7
+drepturi de acces altii: 5
+nume fisier: script.c~
+identificatorul utilizatorului: 1000
+timpul ultimei modificari: Mon Oct 16 12:34:10 2023
+
+contorul de legaturi: 1
+drepturi de acces user: 700
+drepturi de acces grup: 7
+drepturi de acces altii: 5
+nume fisier: script.c
+identificatorul utilizatorului: 1000
+timpul ultimei modificari: Mon Oct 16 12:45:52 2023
+
+contorul de legaturi: 1
+drepturi de acces user: 700
+drepturi de acces grup: 7
+drepturi de acces altii: 5
+nume fisier: fisier.tar
+identificatorul utilizatorului: 1000
+timpul ultimei modificari: Mon Oct 16 12:53:08 2023
+
+contorul de legaturi: 1
+drepturi de acces user: 700
+drepturi de acces grup: 7
+drepturi de acces altii: 5
+nume director: prob1
+identificatorul utilizatorului: 1000
+drepturi de acces user: 700
+drepturi de acces grup: 7
+drepturi de acces altii: 5
+nume fisier: program
+identificatorul utilizatorului: 1000
+timpul ultimei modificari: Mon Oct 16 12:14:42 2023
+
+contorul de legaturi: 1
+drepturi de acces user: 700
+drepturi de acces grup: 7
+drepturi de acces altii: 5
+nume fisier: iesire.txt
+identificatorul utilizatorului: 1000
+timpul ultimei modificari: Wed Oct 18 14:08:08 2023
+
+contorul de legaturi: 1
+drepturi de acces user: 600
+drepturi de acces grup: 6
+drepturi de acces altii: 4
+nume fisier: intrare.txt
+identificatorul utilizatorului: 1000
+timpul ultimei modificari: Mon Oct 16 11:31:30 2023
+
+contorul de legaturi: 1
+drepturi de acces user: 600
+drepturi de acces grup: 6
+drepturi de acces altii: 4
+nume fisier: script.c~
+identificatorul utilizatorului: 1000
+timpul ultimei modificari: Mon Oct 16 11:28:25 2023
+
+contorul de legaturi: 1
+drepturi de acces user: 600
+drepturi de acces grup: 6
+drepturi de acces altii: 4
+nume fisier: script.c
+identificatorul utilizatorului: 1000
+timpul ultimei modificari: Mon Oct 16 11:56:26 2023
+
+contorul de legaturi: 1
+drepturi de acces user: 700
+drepturi de acces grup: 7
+drepturi de acces altii: 5
+nume fisier: output1.txt
+identificatorul utilizatorului: 1000
+timpul ultimei modificari: Wed Oct 18 14:10:51 2023
+
+contorul de legaturi: 1
+drepturi de acces user: 600
+drepturi de acces grup: 6
+drepturi de acces altii: 4
+nume fisier: p
+identificatorul utilizatorului: 1000
+timpul ultimei modificari: Mon Oct 16 12:03:03 2023
+
+contorul de legaturi: 1
+drepturi de acces user: 700
+drepturi de acces grup: 7
+drepturi de acces altii: 5
+nume director: prob4
+identificatorul utilizatorului: 1000
+drepturi de acces user: 700
+drepturi de acces grup: 7
+drepturi de acces altii: 5
+nume fisier: program
+identificatorul utilizatorului: 1000
+timpul ultimei modificari: Wed Oct 18 13:40:19 2023
+
+contorul de legaturi: 1
+drepturi de acces user: 700
+drepturi de acces grup: 7
+drepturi de acces altii: 5
+nume fisier: frames1.bin
+identificatorul utilizatorului: 1000
+timpul ultimei modificari: Fri Jun 14 18:38:18 2019
+
+contorul de legaturi: 1
+drepturi de acces user: 600
+drepturi de acces grup: 6
+drepturi de acces altii: 4
+nume fisier: script.c~
+identificatorul utilizatorului: 1000
+timpul ultimei modificari: Wed Oct 18 13:34:37 2023
+
+contorul de legaturi: 1
+drepturi de acces user: 600
+drepturi de acces grup: 6
+drepturi de acces altii: 4
+nume fisier: script.c
+identificatorul utilizatorului: 1000
+timpul ultimei modificari: Wed Oct 18 13:40:12 2023
+
+contorul de legaturi: 1
+drepturi de acces user: 600
+drepturi de acces grup: 6
+drepturi de acces altii: 4
+nume fisier: script.sh~
+identificatorul utilizatorului: 1000
+timpul ultimei modificari: Mon Oct 16 11:01:41 2023
+
+contorul de legaturi: 1
+drepturi de acces user: 700
+drepturi de acces grup: 7
+drepturi de acces altii: 5
+nume fisier: output.txt
+identificatorul utilizatorului: 1000
+timpul ultimei modificari: Wed Oct 18 20:17:29 2023
+
+contorul de legaturi: 1
+drepturi de acces user: 600
+drepturi de acces grup: 6
+drepturi de acces altii: 4
+nume fisier: script.sh
+identificatorul utilizatorului: 1000
+timpul ultimei modificari: Wed Oct 18 13:04:03 2023
+
+contorul de legaturi: 1
+drepturi de acces user: 700
+drepturi de acces grup: 7
+drepturi de acces altii: 5
+nume director: prob4c
+identificatorul utilizatorului: 1000
+drepturi de acces user: 700
+drepturi de acces grup: 7
+drepturi de acces altii: 5
+nume fisier: program
+identificatorul utilizatorului: 1000
+timpul ultimei modificari: Wed Oct 18 13:17:46 2023
+
+contorul de legaturi: 1
+drepturi de acces user: 700
+drepturi de acces grup: 7
+drepturi de acces altii: 5
+nume fisier: script.c~
+identificatorul utilizatorului: 1000
+timpul ultimei modificari: Wed Oct 18 13:17:16 2023
+
+contorul de legaturi: 1
+drepturi de acces user: 600
+drepturi de acces grup: 6
+drepturi de acces altii: 4
+nume fisier: script.c
+identificatorul utilizatorului: 1000
+timpul ultimei modificari: Wed Oct 18 13:21:56 2023
+
+contorul de legaturi: 1
+drepturi de acces user: 600
+drepturi de acces grup: 6
+drepturi de acces altii: 4
+nume fisier: script.sh
+identificatorul utilizatorului: 1000
+timpul ultimei modificari: Mon Oct  9 12:23:05 2023
+
+contorul de legaturi: 1
+drepturi de acces user: 600
+drepturi de acces grup: 6
+drepturi de acces altii: 4
+nume director: lab6sc
+identificatorul utilizatorului: 1000
+drepturi de acces user: 700
+drepturi de acces grup: 7
+drepturi de acces altii: 5
+nume director: proiect
+identificatorul utilizatorului: 1000
+drepturi de acces user: 700
+drepturi de acces grup: 7
+drepturi de acces altii: 5
+nume fisier: program
+identificatorul utilizatorului: 1000
+timpul ultimei modificari: Mon Nov  6 09:45:04 2023
+
+contorul de legaturi: 1
+drepturi de acces user: 700
+drepturi de acces grup: 7
+drepturi de acces altii: 5
+nume fisier: view.bmp
+inaltime: 1030908260
+lungime: 538995821
+dimensiune: 1348031555
+identificatorul utilizatorului: 1952988170
+timpul ultimei modificari: Tue Mar 15 19:18:38 1988
+
+contorul de legaturi: 1735287148l
+drepturi de acces user: 4010467562
+drepturi de acces grup: 7233066570
+drepturi de acces altii: 15734421075
+nume fisier: intrare.txt.
+identificatorul utilizatorului: 1000
+timpul ultimei modificari: Mon Nov  6 09:22:53 2023
+
+contorul de legaturi: 1
+drepturi de acces user: 600
+drepturi de acces grup: 6
+drepturi de acces altii: 4
+nume fisier: script.c~
+identificatorul utilizatorului: 1000
+timpul ultimei modificari: Mon Nov  6 08:09:42 2023
+
+contorul de legaturi: 1
+drepturi de acces user: 600
+drepturi de acces grup: 6
+drepturi de acces altii: 4
+nume fisier: script.c
+identificatorul utilizatorului: 1000
+timpul ultimei modificari: Mon Nov  6 09:20:52 2023
+
+contorul de legaturi: 1
+drepturi de acces user: 600
+drepturi de acces grup: 6
+drepturi de acces altii: 4
+nume director: lab41
+identificatorul utilizatorului: 1000
+drepturi de acces user: 700
+drepturi de acces grup: 7
+drepturi de acces altii: 5
+nume fisier: text.txt~
+identificatorul utilizatorului: 1000
+timpul ultimei modificari: Wed Oct 25 16:16:43 2023
+
+contorul de legaturi: 1
+drepturi de acces user: 700
+drepturi de acces grup: 7
+drepturi de acces altii: 5
+nume fisier: text.txt
+identificatorul utilizatorului: 1000
+timpul ultimei modificari: Wed Oct 25 16:18:33 2023
+
+contorul de legaturi: 1
+drepturi de acces user: 700
+drepturi de acces grup: 7
+drepturi de acces altii: 5
+nume fisier: f3
+identificatorul utilizatorului: 1000
+timpul ultimei modificari: Wed Oct 25 16:15:49 2023
+
+contorul de legaturi: 1
+drepturi de acces user: 700
+drepturi de acces grup: 7
+drepturi de acces altii: 5
+nume fisier: f3.sh~
+identificatorul utilizatorului: 1000
+timpul ultimei modificari: Wed Oct 25 16:16:22 2023
+
+contorul de legaturi: 1
+drepturi de acces user: 600
+drepturi de acces grup: 6
+drepturi de acces altii: 4
+nume fisier: f3.sh
+identificatorul utilizatorului: 1000
+timpul ultimei modificari: Wed Oct 25 16:32:27 2023
+
+contorul de legaturi: 1
+drepturi de acces user: 600
+drepturi de acces grup: 6
+drepturi de acces altii: 4
+nume director: proiect
+identificatorul utilizatorului: 1000
+drepturi de acces user: 700
+drepturi de acces grup: 7
+drepturi de acces altii: 5
+nume fisier: program
+identificatorul utilizatorului: 1000
+timpul ultimei modificari: Sat Nov 11 17:34:02 2023
+
+contorul de legaturi: 1
+drepturi de acces user: 700
+drepturi de acces grup: 7
+drepturi de acces altii: 5
+nume fisier: imagine.bmp
+inaltime: 65536
+lungime: 83886080
+dimensiune: 112
+identificatorul utilizatorului: 125829120
+timpul ultimei modificari: Thu Jan  1 02:01:52 1970
+
+contorul de legaturi: 0l
+drepturi de acces user: 0
+drepturi de acces grup: 0
+drepturi de acces altii: 0
+nume fisier: script.c~
+identificatorul utilizatorului: 1000
+timpul ultimei modificari: Sat Nov 11 17:13:26 2023
+
+contorul de legaturi: 1
+drepturi de acces user: 600
+drepturi de acces grup: 6
+drepturi de acces altii: 4
+nume fisier: script.c
+identificatorul utilizatorului: 1000
+timpul ultimei modificari: Sat Nov 11 17:33:26 2023
+
+contorul de legaturi: 1
+drepturi de acces user: 600
+drepturi de acces grup: 6
+drepturi de acces altii: 4
+nume fisier: statistica.txt
+identificatorul utilizatorului: 1000
+timpul ultimei modificari: Sat Nov 11 17:34:21 2023
+
+contorul de legaturi: 1
+drepturi de acces user: 600
+drepturi de acces grup: 0
+drepturi de acces altii: 0
+nume director: lab5sc
+identificatorul utilizatorului: 1000
+drepturi de acces user: 700
+drepturi de acces grup: 7
+drepturi de acces altii: 5
+nume fisier: input.txt~
+identificatorul utilizatorului: 1000
+timpul ultimei modificari: Wed Oct 25 16:48:32 2023
+
+contorul de legaturi: 1
+drepturi de acces user: 600
+drepturi de acces grup: 6
+drepturi de acces altii: 4
+nume fisier: script1.sh
+identificatorul utilizatorului: 1000
+timpul ultimei modificari: Wed Oct 25 17:45:31 2023
+
+contorul de legaturi: 1
+drepturi de acces user: 700
+drepturi de acces grup: 7
+drepturi de acces altii: 5
+nume fisier: script2.sh
+identificatorul utilizatorului: 1000
+timpul ultimei modificari: Wed Oct 25 17:35:39 2023
+
+contorul de legaturi: 1
+drepturi de acces user: 600
+drepturi de acces grup: 6
+drepturi de acces altii: 4
+nume fisier: input.txt
+identificatorul utilizatorului: 1000
+timpul ultimei modificari: Wed Oct 25 17:20:28 2023
+
+contorul de legaturi: 1
+drepturi de acces user: 700
+drepturi de acces grup: 7
+drepturi de acces altii: 5
+nume fisier: script2.sh~
+identificatorul utilizatorului: 1000
+timpul ultimei modificari: Wed Oct 25 17:31:46 2023
+
+contorul de legaturi: 1
+drepturi de acces user: 600
+drepturi de acces grup: 6
+drepturi de acces altii: 4
+nume fisier: script1.sh~
+identificatorul utilizatorului: 1000
+timpul ultimei modificari: Wed Oct 25 17:38:09 2023
+
+contorul de legaturi: 1
+drepturi de acces user: 700
+drepturi de acces grup: 7
+drepturi de acces altii: 5
+nume fisier: script.sh~
+identificatorul utilizatorului: 1000
+timpul ultimei modificari: Wed Oct 25 16:40:17 2023
+
+contorul de legaturi: 1
+drepturi de acces user: 600
+drepturi de acces grup: 6
+drepturi de acces altii: 4
+nume fisier: output.txt
+identificatorul utilizatorului: 1000
+timpul ultimei modificari: Wed Oct 25 17:40:43 2023
+
+contorul de legaturi: 1
+drepturi de acces user: 700
+drepturi de acces grup: 7
+drepturi de acces altii: 5
+nume fisier: output1.txt
+identificatorul utilizatorului: 1000
+timpul ultimei modificari: Wed Oct 25 17:45:39 2023
+
+contorul de legaturi: 1
+drepturi de acces user: 600
+drepturi de acces grup: 6
+drepturi de acces altii: 4
+nume fisier: script.sh
+identificatorul utilizatorului: 1000
+timpul ultimei modificari: Wed Oct 25 17:23:06 2023
+
+contorul de legaturi: 1
+drepturi de acces user: 700
+drepturi de acces grup: 7
+drepturi de acces altii: 5
